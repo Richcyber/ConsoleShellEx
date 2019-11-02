@@ -1,0 +1,9 @@
+<Project>
+
+  <PropertyGroup>
+    <GitInfoPackageVersion Condition=" '$(GitInfoPackageVersion)'=='' ">2.0.20</GitInfoPackageVersion>
+    <MicrosoftSourceLinkGitHubPackageVersion Condition=" '$(MicrosoftSourceLinkGitHubPackageVersion)'=='' ">1.0.0-beta2-19367-01</MicrosoftSourceLinkGitHubPackageVersion>
+    <SourceLinkCreateCommandLinePackageVersion Condition=" '$(SourceLinkCreateCommandLinePackageVersion)'=='' ">2.8.3</SourceLinkCreateCommandLinePackageVersion>
+  </PropertyGroup>
+
+</Project>

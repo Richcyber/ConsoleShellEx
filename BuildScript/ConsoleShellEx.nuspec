@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>ConsoleShellEx</id>
+        <version>$version$</version>
+        <title>ConsoleShellEx</title>
+        <authors>zhangpeng</authors>
+        <owners>zhangpeng</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>ConsoleShellEx</description>
+        <releaseNotes/>
+    </metadata>
+    <files>
+        <file src="..\Build\lib\netstandard2.0\ConsoleShellEx.dll" target="lib\netstandard2.0\" />
+        <file src="..\Build\lib\netstandard2.0\ConsoleShellEx.pdb" target="lib\netstandard2.0\" />
+    </files>
+</package>
